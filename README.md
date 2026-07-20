@@ -14,4 +14,10 @@
 - R² Score Evaluation
 - Predicted vs Actual Plot
 
+###SkillNexis-Week2-Assignment/
+│── README.md
+│── week_2.ipynb
+│── Housing.csv
+│── Titanic-Dataset.csv
+
 **Submitted by:** Chittari Likith
